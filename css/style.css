@@ -1,0 +1,27 @@
+h1, p, .row {
+	text-align: center;
+	font-size: 40p;
+	color: #0954B2;
+}
+
+#container-fluid {
+	min-height: 90vh;
+}
+
+button {
+	color: #c0392b;
+}
+
+body {
+	position: relative;
+	background-color: #c0392b;
+	font-family: 'Baloo Paaji', cursive;
+}
+
+.top-row {
+	margin-top: 50px;
+}
+
+.bottom {
+	margin-bottom: 50px
+}
